@@ -8,9 +8,7 @@ packages:
   - git
   - fail2ban
   - fail2ban-firewalld
+  - network-scripts
   ## VPN-specific stuff
   - openvpn
   - easy-rsa
-  ## monitoring
-  - nrpe
-  - nagios-plugins-all
